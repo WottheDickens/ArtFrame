@@ -1,5 +1,5 @@
 TOT=5
-UPDATEKEY=freshthing
+UPDATEKEY=freshthing2
 FILE=images/75/jim/pc2.bmp
 FILE=images/75/jim/pc4.bmp
 FILE=images/75/ben/ball1.bmp
