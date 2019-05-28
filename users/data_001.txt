@@ -1,7 +1,7 @@
-TOT=2
-UPDATEKEY=freshthing
-FAILE=images/75/jim/pc2.bmp
-FAILE=images/75/jim/pc4.bmp
-FAILE=images/75/ben/ball1.bmp
-FILE=images/75/jim/poster1.bmp
+TOT=1
+UPDATEKEY=afresh
+FaILE=images/75/jim/apc2.bmp
+FaILE=images/75/jim/apc4.bmp
+FaILE=images/75/ben/aball1.bmp
+FaILE=images/75/jim/poster1.bmp
 FILE=images/75/jim/mask1.bmp
