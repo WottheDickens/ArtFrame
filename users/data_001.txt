@@ -1,4 +1,5 @@
 TOT=4
+UPDATEKEY=fresh
 FILE=images/75/jim/pc2.bmp
 FILE=images/75/jim/pc4.bmp
 FILE=images/75/ben/ball1.bmp
