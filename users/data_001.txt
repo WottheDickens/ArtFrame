@@ -1,6 +1,7 @@
-TOT=4
-UPDATEKEY=fresh
+TOT=5
+UPDATEKEY=fresh2
 FILE=images/75/jim/pc2.bmp
 FILE=images/75/jim/pc4.bmp
 FILE=images/75/ben/ball1.bmp
 FILE=images/75/jim/poster1.bmp
+FILE=images/75/jim/mask1.bmp
