@@ -1,7 +1,7 @@
-TOT=5
+TOT=2
 UPDATEKEY=freshthing
-FILE=images/75/jim/pc2.bmp
-FILE=images/75/jim/pc4.bmp
-FILE=images/75/ben/ball1.bmp
-FILE=images/75/jim/mask1.bmp
+FAILE=images/75/jim/pc2.bmp
+FAILE=images/75/jim/pc4.bmp
+FAILE=images/75/ben/ball1.bmp
 FILE=images/75/jim/poster1.bmp
+FILE=images/75/jim/mask1.bmp
