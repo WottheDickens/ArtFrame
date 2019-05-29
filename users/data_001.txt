@@ -1,7 +1,5 @@
-TOT=1
-UPDATEKEY=afresh
-FaILE=images/75/jim/apc2.bmp
-FaILE=images/75/jim/apc4.bmp
-FaILE=images/75/ben/aball1.bmp
-FaILE=images/75/jim/poster1.bmp
+TOT=3
+UPDATEKEY=fresh
+FILE=images/75/jim/apc2.bmp
 FILE=images/75/jim/mask1.bmp
+FILE=images/75/jim/beware1.bmp
