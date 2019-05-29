@@ -1,5 +1,6 @@
-TOT=3
-UPDATEKEY=fresh
+TOT=4
+UPDATEKEY=afresh
 FILE=images/75/jim/apc2.bmp
 FILE=images/75/jim/mask1.bmp
 FILE=images/75/jim/beware1.bmp
+FILE=images/75/jim/beware2.bmp
