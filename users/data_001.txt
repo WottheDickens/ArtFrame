@@ -1,6 +1,6 @@
 TOT=8
-UPDATEKEY=refreshinglytry
-SHOWNEXT=3
+UPDATEKEY=refreshingly
+SHOWNEXT=8
 FILE=images/75/jim/definitiveHead/hearno3.bmp
 FILE=images/75/jim/definitiveHead/seeno3.bmp
 FILE=images/75/jim/definitiveHead/speakno3.bmp
