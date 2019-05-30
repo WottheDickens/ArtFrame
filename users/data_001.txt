@@ -1,5 +1,5 @@
 TOT=8
-UPDATEKEY=refreshinglynice
+UPDATEKEY=refreshingly
 SHOWNEXT=4
 FILE=images/75/jim/definitiveHead/hearno3.bmp
 FILE=images/75/jim/definitiveHead/seeno3.bmp
