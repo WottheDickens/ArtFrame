@@ -1,6 +1,6 @@
 TOT=4
-UPDATEKEY=fresher
+UPDATEKEY=refresher
 FILE=images/75/jim/apc2.bmp
-FILE=images/75/jim/mask1.bmp
-FILE=images/75/jim/beware2.bmp
-FILE=images/75/jim/maskhearno2.bmp
+FILE=images/75/jim/definitiveHead/maskhearno2.bmp
+FILE=images/75/jim/definitiveHead/maskseeno2.bmp
+FILE=images/75/jim/definitiveHead/speakno.bmp
