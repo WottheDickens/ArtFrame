@@ -1,5 +1,5 @@
 TOT=8
-UPDATEKEY=refreshingly
+UPDATEKEY=refresh
 SHOWNEXT=8
 FILE=images/75/jim/definitiveHead/hearno3.bmp
 FILE=images/75/jim/definitiveHead/seeno3.bmp
@@ -8,5 +8,5 @@ FILE=images/75/jim/postcards/postcard1.bmp
 FILE=images/75/jim/postcards/postcard2.bmp
 FILE=images/75/jim/postcards/postcard3.bmp
 FILE=images/75/jim/postcards/postcard4.bmp
-FILE=images/75/jim/definitiveHead/bealive.bmp
+FILE=images/75/jim/definitiveHead/bealive2.bmp
 
