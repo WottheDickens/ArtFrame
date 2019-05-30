@@ -1,5 +1,5 @@
-TOT=7
-UPDATEKEY=refreshing
+TOT=8
+UPDATEKEY=refreshingly
 FILE=images/75/jim/definitiveHead/hearno3.bmp
 FILE=images/75/jim/definitiveHead/seeno3.bmp
 FILE=images/75/jim/definitiveHead/speakno3.bmp
