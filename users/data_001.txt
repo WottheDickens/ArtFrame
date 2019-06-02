@@ -1,11 +1,11 @@
-TOT=5
+TOT=3
 UPDATEKEY=refreshing
 SHOWNEXT=1
-FILE=images/75/jim/postcards/postcard1.bmp
-FILE=images/75/jim/postcards/postcard2.bmp
-FILE=images/75/jim/postcards/postcard3.bmp
-FILE=images/75/jim/postcards/postcard4.bmp
-FILE=images/75/jim/definitiveHead/bealive2.bmp
+FILE=images/75/jim/postcards/poster5.bmp
+FILE=images/75/jim/postcards/pc5a.bmp
+FILE=images/75/jim/postcards/pc6a.bmp
+FdontILE=images/75/jim/postcards/postcard4.bmp
+FdontILE=images/75/jim/definitiveHead/bealive2.bmp
 FdontILE=images/75/jim/definitiveHead/hearno3.bmp
 FdontILE=images/75/jim/definitiveHead/seeno3.bmp
 FdontILE=images/75/jim/definitiveHead/speakno3.bmp
