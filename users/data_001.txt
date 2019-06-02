@@ -1,12 +1,12 @@
-TOT=8
-UPDATEKEY=refresh
-SHOWNEXT=8
-FILE=images/75/jim/definitiveHead/hearno3.bmp
-FILE=images/75/jim/definitiveHead/seeno3.bmp
-FILE=images/75/jim/definitiveHead/speakno3.bmp
+TOT=5
+UPDATEKEY=refreshing
+SHOWNEXT=1
 FILE=images/75/jim/postcards/postcard1.bmp
 FILE=images/75/jim/postcards/postcard2.bmp
 FILE=images/75/jim/postcards/postcard3.bmp
 FILE=images/75/jim/postcards/postcard4.bmp
 FILE=images/75/jim/definitiveHead/bealive2.bmp
+FdontILE=images/75/jim/definitiveHead/hearno3.bmp
+FdontILE=images/75/jim/definitiveHead/seeno3.bmp
+FdontILE=images/75/jim/definitiveHead/speakno3.bmp
 
