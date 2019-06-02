@@ -1,6 +1,7 @@
-TOT=3
+TOT=4
 UPDATEKEY=refreshing
 SHOWNEXT=1
+FILE=images/75/dynamic/moon.bmp
 FILE=images/75/jim/postcards/poster5.bmp
 FILE=images/75/jim/postcards/pc5a.bmp
 FILE=images/75/jim/postcards/pc6a.bmp
