@@ -1,5 +1,5 @@
 TOT=4
-UPDATEKEY=okeymo2
+UPDATEKEY=okeymo22
 SHOWNEXT=1
 FILE=images/75/dynamic/moon.bmp
 FILE=images/75/jim/postcards/poster5.bmp
