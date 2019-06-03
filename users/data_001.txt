@@ -1,9 +1,10 @@
-TOT=3
+TOT=4
 UPDATEKEY=frofdf
 SHOWNEXT=1
 FILE=images/75/jim/postcards/poster5.bmp
 FILE=images/75/jim/postcards/pc5a.bmp
 FILE=images/75/jim/postcards/pc6a.bmp
+FILE=images/75/dynamic/moon.bmp
 FdontILE=images/75/jim/postcards/postcard4.bmp
 FdontILE=images/75/jim/definitiveHead/bealive2.bmp
 FdontILE=images/75/jim/definitiveHead/hearno3.bmp
